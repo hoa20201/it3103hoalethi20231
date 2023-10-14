@@ -12,6 +12,8 @@ public class HelloWorld_HoaLT {
 		System.out.printf("Toi la Hoa\n");
 		System.out.println("Toi hoc IT3103\n");
 		System.out.println("Ten cua Ban?");
+		System.out.print("Hoai Thu");
+		
 		
 	}
 
